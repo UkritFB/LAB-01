@@ -47,6 +47,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 5 กดปุ่ม Ctrl+F5 เพื่อดูผลการทำงานของโปรแกรม
 
 ## บันทึกผลการทดลอง
+![รูปที่ 1 ](https://github.com/UkritFB/LAB-01/blob/master/1.PNG?raw=true)
 
  [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
 
