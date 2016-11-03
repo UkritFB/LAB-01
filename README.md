@@ -67,6 +67,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
+![](https://github.com/UkritFB/LAB-01/blob/master/Capture.PNG?raw=true)
 				
 
 
